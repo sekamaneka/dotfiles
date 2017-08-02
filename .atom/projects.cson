@@ -1,0 +1,17 @@
+[
+  {
+    title: "Mqtt Security"
+    group: "Security"
+    paths: [
+      "/home/s/mqtt-security"
+    ]
+    devMode: true
+  }
+  {
+    title: "Visual"
+    paths: [
+      "/home/s/Documents/TU_WIEN_WS_2016/visual"
+      "/home/s/sCripts"
+    ]
+  }
+]

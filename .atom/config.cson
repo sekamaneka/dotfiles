@@ -1,0 +1,76 @@
+"*":
+  "atom-beautify":
+    bash:
+      beautify_on_save: true
+    c:
+      beautify_on_save: true
+    general:
+      _analyticsUserId: "877c3b3f-0808-4449-a98d-0bd59a1cff45"
+    python:
+      beautify_on_save: true
+  "atom-terminal":
+    app: "/bin/zsh"
+    surpressDirectoryArgument: false
+  "autocomplete-python":
+    useKite: false
+    useSnippets: "all"
+  core:
+    autoHideMenuBar: true
+    closeDeletedFileTabs: true
+    disabledPackages: [
+      "deprecation-cop"
+      "language-python"
+      "autocomplete-python"
+      "minimap-highlight-selected"
+      "minimap"
+      "git-plus"
+    ]
+    packagesWithKeymapsDisabled: [
+      "atom-terminal"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "seti-ui"
+      "seti-syntax"
+    ]
+  docblockr:
+    auto_add_method_tag: true
+    c_style_block_comments: true
+  editor:
+    fontSize: 17
+    softWrap: true
+    tabLength: 4
+    tabType: "soft"
+  "exception-reporting":
+    userId: "8de42b0d-4177-4196-9440-438b4b2483fc"
+  fonts:
+    fontFamily: "Hasklig"
+  "git-plus":
+    remoteInteractions:
+      promptForBranch: true
+  "linter-gcc":
+    execPath: "/usr/bin/gcc"
+  "linter-matlab": {}
+  "linter-pylama": {}
+  "linter-ui-default": {}
+  minimap:
+    displayMinimapOnLeft: true
+    plugins:
+      "highlight-selected": false
+      "highlight-selectedDecorationsZIndex": 0
+  "project-manager":
+    alwaysOpenInSameWindow: true
+    includeGitRepositories: true
+  script:
+    stopOnRerun: true
+  "seti-syntax": {}
+  "seti-ui":
+    compactView: true
+  term3: {}
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
+".python.source":
+  editor:
+    showIndentGuide: true
